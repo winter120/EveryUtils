@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EveryUtils</string>
+    <string name="string_of_link">By installing, you are agreeing to our &lt;a href=\'http://www.so.com\'&gt; Terms of Service&lt;/a&gt; and &lt;a href=\'http://www.so.com\'>Privacy Policy&lt;/a&gt;</string>
 </resources>
